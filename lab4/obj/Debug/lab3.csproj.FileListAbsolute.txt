@@ -1,0 +1,14 @@
+F:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.exe.config
+F:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.exe
+F:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.pdb
+F:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+F:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.exe
+F:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.pdb
+E:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.exe.config
+E:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.exe
+E:\ТРПО\labs\3\Lab3\lab3\bin\Debug\lab3.pdb
+E:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.exe
+E:\ТРПО\labs\3\Lab3\lab3\obj\Debug\lab3.pdb
